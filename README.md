@@ -9,6 +9,7 @@ It only works with the micro:bit V2 and the Pimoroni inky:bit eInk display which
 
 ## How do you set it up?
 - Edit the code so the ticks variable is set to the number of hours and minutes until the next tide change at your location.
+- Set the `rising` variable to `true` if the tide is coming in currently, set it to `false` if the tide is going out.
 - Flash the HEX file to your micro:bit
 - Don't press the reset button!
 
