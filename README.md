@@ -16,3 +16,7 @@ It only works with the micro:bit V2 and the Pimoroni inky:bit eInk display which
 - Add estimate of how long until next tide changes
 - Add other ways of setting the tide time, perhaps by radio (the LED display is disabled with this accessory).
 - Make a version that just uses the LED display, pressing a button to light up the display to save battery power.
+
+## Code blocks
+![MakeCode program blocks](images/tides-blocks.png)
+
